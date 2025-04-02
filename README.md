@@ -44,3 +44,35 @@ An online library system built with **React** that allows users to browse, searc
 ```bash
 git clone https://github.com/isaifshah/online-library.git
 ```
+
+2️⃣ Navigate to the project folder: 
+```bash
+cd online-library-system
+```
+
+3️⃣ Install dependencies:
+```bash
+npm install
+```
+
+4️⃣ Start the development server:
+```bash
+npm start
+```
+
+## 📸 Screenshots
+1️⃣ Home Page
+![image](https://github.com/user-attachments/assets/1b1f7f32-36cb-40ef-bcaf-a9d61efa3f4c)
+
+2️⃣ Browse Books
+![image](https://github.com/user-attachments/assets/d58c8c89-bf58-499e-9f9b-4c6ff119c021)
+
+3️⃣ Add Books 
+![image](https://github.com/user-attachments/assets/56dbc3da-a545-46d9-96f5-292415c0d8e0)
+
+4️⃣Books by Category
+![image](https://github.com/user-attachments/assets/1c13eb1b-9ec4-48d3-82a7-9b5dccf85151)
+
+
+
+
