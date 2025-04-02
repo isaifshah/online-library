@@ -43,9 +43,4 @@ An online library system built with **React** that allows users to browse, searc
 1️⃣ Clone the repository:  
 ```bash
 git clone https://github.com/isaifshah/online-library.git
-
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> c2b2776 (Initialize project using Create React App)
+```
